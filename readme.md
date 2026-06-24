@@ -16,13 +16,8 @@ git clone https://github.com/shezanusdf/connect4
 
 2. Run the game
 
-cd connect4
 python connect_four.py
 
-## How to play
 
-Try to get as close as 21 without going over.
-face cards = 10
-ace = 11 or 1
 
 
